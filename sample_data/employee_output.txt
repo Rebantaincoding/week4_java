@@ -1,0 +1,447 @@
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+1
+
+===ADD EMPLOYEE===
+
+Enter Employee Id:
+101
+Enter Employee Name:
+Alice
+Enter Employee Department:
+IT
+Enter Employee Position:
+Fresher
+Enter Salary
+35000
+Enter Date of Joining
+12-06-2026
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+1
+
+===ADD EMPLOYEE===
+
+Enter Employee Id:
+102
+Enter Employee Name:
+Bob
+Enter Employee Department:
+Marketing
+Enter Employee Position:
+Manager
+Enter Salary
+75000
+Enter Date of Joining
+12-03-2023
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+1
+
+===ADD EMPLOYEE===
+
+Enter Employee Id:
+103
+Enter Employee Name:
+Alexa
+Enter Employee Department:
+HR
+Enter Employee Position:
+Lead
+Enter Salary
+78000
+Enter Date of Joining
+12-05-2024
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+2
+
+===EMPLOYEE DETAILS===
+
+----------------------------------------------------------------------------------------------------
+Employee id: 101
+Employee name: Alice
+Department: IT
+Employee Position: Fresher
+Salary: 35000.0
+Joining Date: 12-06-2026
+----------------------------------------------------------------------------------------------------
+Employee id: 102
+Employee name: Bob
+Department: Marketing
+Employee Position: Manager
+Salary: 75000.0
+Joining Date: 12-03-2023
+----------------------------------------------------------------------------------------------------
+Employee id: 103
+Employee name: Alexa
+Department: HR
+Employee Position: Lead
+Salary: 78000.0
+Joining Date: 12-05-2024
+----------------------------------------------------------------------------------------------------
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+3
+=== SEARCH EMPLOYEE ===
+1. Search by ID
+2. Search by Name
+3. Search by Department
+1
+Enter Employee Id to search: 
+101
+Employee found!!!
+Employee id: 101
+Employee name: Alice
+Department: IT
+Employee Position: Fresher
+Salary: 35000.0
+Joining Date: 12-06-2026
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+3
+=== SEARCH EMPLOYEE ===
+1. Search by ID
+2. Search by Name
+3. Search by Department
+1
+Enter Employee Id to search: 
+111
+No employee found with given id!!!
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+3
+=== SEARCH EMPLOYEE ===
+1. Search by ID
+2. Search by Name
+3. Search by Department
+2
+Enter Employee Name to search: 
+Alex
+List of employees with matching names: 
+Employee id: 103
+Employee name: Alexa
+Department: HR
+Employee Position: Lead
+Salary: 78000.0
+Joining Date: 12-05-2024
+----------------------------------------------------------------------------------------------------
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+2
+
+===EMPLOYEE DETAILS===
+
+----------------------------------------------------------------------------------------------------
+Employee id: 101
+Employee name: Alice
+Department: IT
+Employee Position: Fresher
+Salary: 35000.0
+Joining Date: 12-06-2026
+----------------------------------------------------------------------------------------------------
+Employee id: 102
+Employee name: Bob
+Department: Marketing
+Employee Position: Manager
+Salary: 75000.0
+Joining Date: 12-03-2023
+----------------------------------------------------------------------------------------------------
+Employee id: 103
+Employee name: Alexa
+Department: HR
+Employee Position: Lead
+Salary: 78000.0
+Joining Date: 12-05-2024
+----------------------------------------------------------------------------------------------------
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+3
+=== SEARCH EMPLOYEE ===
+1. Search by ID
+2. Search by Name
+3. Search by Department
+3
+Enter Department to search: 
+IT
+List of employees working in department: IT
+Employee id: 101
+Employee name: Alice
+Department: IT
+Employee Position: Fresher
+Salary: 35000.0
+Joining Date: 12-06-2026
+----------------------------------------------------------------------------------------------------
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+4
+
+===UPDATE EMPLOYEE===
+
+Enter id of employee to update
+101
+Enter updated details
+Enter Employee Name:
+Alice
+Enter Employee Department:
+IT
+Enter Employee Position:
+Fresher
+Enter Salary
+35000
+Enter Date of Joining
+12-06-2026
+Details of user with id: 101 updated successfully!
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+6
+
+===Employee Reports===
+
+Total Employees: 3
+Average Salary:  62666.666666666664
+Highest Salary:  78000.0(Alexa)
+Lowest Salary:   35000.0(Alice)
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+5
+
+===DELETE EMPLOYEE===
+
+Enter id of employee to delete:
+101
+User deleted successfully!
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+7
+
+===SAVE EMPLOYEE DETAILS===
+
+Employee data saved to file.
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+5
+
+===DELETE EMPLOYEE===
+
+Enter id of employee to delete:
+102
+User deleted successfully!
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+5
+
+===DELETE EMPLOYEE===
+
+Enter id of employee to delete:
+103
+User deleted successfully!
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+2
+
+===EMPLOYEE DETAILS===
+
+----------------------------------------------------------------------------------------------------
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+8
+
+===LOAD EMPLOYEE DETAILS===
+
+Loaded 2 employees from file.
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+2
+
+===EMPLOYEE DETAILS===
+
+----------------------------------------------------------------------------------------------------
+Employee id: 102
+Employee name: Bob
+Department: Marketing
+Employee Position: Manager
+Salary: 75000.0
+Joining Date: 12-03-2023
+----------------------------------------------------------------------------------------------------
+Employee id: 103
+Employee name: Alexa
+Department: HR
+Employee Position: Lead
+Salary: 78000.0
+Joining Date: 12-05-2024
+----------------------------------------------------------------------------------------------------
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+1. Add New Employee
+2. View All Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Generate Reports
+7. Save to File
+8. Load from File
+9. Exit
+Enter your choice:
+9
